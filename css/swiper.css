@@ -1,14 +1,12 @@
-/**
- * Swiper 4.4.6
- * Most modern mobile touch slider and framework with hardware accelerated transitions
- * http://www.idangero.us/swiper/
- *
- * Copyright 2014-2018 Vladimir Kharlampidi
- *
- * Released under the MIT License
- *
- * Released on: December 19, 2018
- */
+/* RU Hacks 2020
+Contributors:
+Arianne Ghislaine Rull
+Saffat Aziz
+*/
+
+
+
+
 .swiper-container {
   margin: 0 auto;
   position: relative;
@@ -616,3 +614,16 @@ button.swiper-pagination-bullet {
   /* Windows 8 IE 10 fix */
   -ms-perspective: 1200px;
 }
+
+
+/**
+ * Swiper 4.4.6
+ * Most modern mobile touch slider and framework with hardware accelerated transitions
+ * http://www.idangero.us/swiper/
+ *
+ * Copyright 2014-2018 Vladimir Kharlampidi
+ *
+ * Released under the MIT License
+ *
+ * Released on: December 19, 2018
+ */
