@@ -21,7 +21,7 @@ Colors:
 - Buttons, bullets, icons - turquoise #00c9db
 - Navbar - navy #E9282D
 - Backgrounds - dark denim #762323
-- Backgrounds - denim #2f2c3d
+- Backgrounds - denim #762323
 ******************************************/
 
 
@@ -556,7 +556,7 @@ input[type='checkbox'] {
 	right: 0;
 	bottom: 0;
 	left: 0;
-	background: #2f2c3d;
+	background: #762323;
 }
 
 .spinner {
@@ -833,7 +833,7 @@ input[type='checkbox'] {
 .tabs {
 	padding-top: 6.5rem;
 	padding-bottom: 4.25rem;
-	background-color: #2f2c3d;
+	background-color: #762323;
 }
 
 .tabs h2 {
@@ -1132,7 +1132,7 @@ input[type='checkbox'] {
 	margin: 2.5rem auto;
 	padding: 3rem 1rem;
 	border-radius: 0.25rem;
-	background-color: #2f2c3d;
+	background-color: #762323;
 	text-align: left;
 }
 
@@ -1208,7 +1208,7 @@ input[type='checkbox'] {
 .slider-2 {
 	padding-top: 6.875rem;
 	padding-bottom: 6.875rem;
-	background-color: #2f2c3d;
+	background-color: #762323;
 }
 
 .slider-2 .slider-container {
@@ -1443,7 +1443,7 @@ a:hover.back-to-top {
 .ex-basic-1 {
 	padding-top: 2rem;
 	padding-bottom: 0.875rem;
-	background-color: #2f2c3d;
+	background-color: #762323;
 }
 
 .ex-basic-1 .breadcrumbs {
